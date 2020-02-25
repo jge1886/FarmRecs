@@ -1,27 +1,6 @@
-# FarmRecs
-Dashboard for people in the farming and agricultural community
+personal hobby app.
 
-The focus of this app is to help those in the agricultural community with record keeping and data storage. 
-
-pages added so far -
-
-Login
-
-Datatable
-
-Inbox
-
-Issues i am running across:
-
-Datatable Errors:
-
-I am not able to add new data to the datatable. 
-
-AJAX error
-
-Inbox issue:
-
-The goal is to replace the static email with an integrated inbox, preferrably from gmail. (API) 
+very basic datatable. 
 
 
 
